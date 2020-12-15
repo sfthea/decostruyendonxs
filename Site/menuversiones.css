@@ -1,0 +1,53 @@
+body {
+    background-image: url(IMG/BG-menuversiones.png);
+    background-position: center 0;
+    background-size: cover;
+}
+
+.volver {
+    position: absolute;
+    left: -20px;
+    top: 19px;
+    width: 411px;
+    height: 95px;
+    z-index: 2;
+  }
+
+.florceleste {
+    position: absolute;
+    left: 1038px;
+    top: 420px;
+    width: 142px;
+    height: 229px;
+    z-index: 28
+  }
+  
+.florverde {
+    position: absolute;
+    left: 100px;
+    top: 409px;
+    width: 113px;
+    height: 233px;
+    z-index: 24;
+  }
+
+.floramarilla {
+    position: absolute;
+    left: 719px;
+    top: 480px;
+    width: 148px;
+    height: 209px;
+    z-index: 20;
+  }
+
+.florbordo {
+    position: absolute;
+    left: 397px;
+    top: 470px;
+    width: 156px;
+    height: 218px;
+    z-index: 22;
+  }
+  
+
+  

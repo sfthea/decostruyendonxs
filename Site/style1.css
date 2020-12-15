@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+.logo {
+        width: 215px;
+        height: 259px;
+        display: block;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.lic {
+        position: relative;
+        text-align: center;
+        font-size: 30pt;
+        font-family: "Helvetica Neue";
+        letter-spacing: 10px;
+        color: rgb(255, 254, 254);
+        text-transform: uppercase;
+        line-height: 1.2;
+        top: 300x;
+        z-index: 5; 
+}
+
+.tpf {
+        position: relative;
+        text-align: center;
+        font-size: 25pt;
+        font-family: "Helvetica Neue";
+        letter-spacing: 10px;
+        color: rgb(255, 254, 254);
+        text-transform: uppercase;
+        line-height: 1.2;
+        top: 330x;
+        z-index: 5; 
+}
+
+.maive {
+        position: relative;
+        text-align: center;
+        font-size: 30pt;
+        font-family: "Helvetica Neue";
+        letter-spacing: 10px;
+        color: rgb(255, 254, 254);
+        text-transform: uppercase;
+        line-height: 1.2;
+        top: 400x;
+        z-index: 5; 
+
+}
+
+.year {
+        position: relative;
+        text-align: center;
+        font-size: 25pt;
+        font-family: "Helvetica Neue";
+        letter-spacing: 10px;
+        color: rgb(255, 254, 254);
+        text-transform: uppercase;
+        line-height: 1.2;
+        top: 450x;
+        z-index: 5;  
+
+}

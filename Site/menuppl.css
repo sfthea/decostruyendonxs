@@ -1,0 +1,50 @@
+body {
+    background-image: url(IMG/menuppl.png);
+    background-position: center 0;
+    background-size: cover;
+}
+
+.lamparitascopia {
+    position: absolute;
+    left: 660px;
+    top: 420px;
+    width: 114px;
+    height: 143px;
+    z-index: 21;
+  }
+  
+  .lamparitas {
+    position: absolute;
+    left: 600px;
+    top: 470px;
+    width: 89px;
+    height: 119px;
+    z-index: 20;
+  }
+  
+.herramientas1 {
+    position: absolute;
+    left: 845px;
+    top: 375px;
+    width: 246px;
+    height: 248px;
+    z-index: 19;   
+}
+
+.herramientas2 {
+    position: absolute;
+    left: 875px;
+    top: 400px;
+    width: 209px;
+    height: 210px;
+    z-index: 18;
+}
+
+.claqueta {
+    position: absolute;
+    left: 250px;
+    top: 410px;
+    width: 189px;
+    height: 188px;
+    z-index: 14;     
+}

@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    position: absolute;
+    font-size: 50pt;
+    font-family: "Helvetica";
+    color: rgb(255, 0, 0);
+    line-height: 1.5;
+    position: absolute;
+    left: 120px;
+    top: 20px;
+}
+
+h2 {
+    position: absolute;
+    font-size: 30pt;
+    font-family: "Helvetica";
+    color: rgb(255, 254, 254);
+    line-height: 1.8;
+    left: 120px;
+    top: 150px;
+}
+
+  .continuar {
+    position: absolute;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding: 3px 8px;
+    font-size: 25pt;
+    font-family: "Helvetica";
+    color: rgb(255, 254, 254);
+    line-height: 2;
+    left: 310px;
+    top: 400px;
+  }
+  
+  .desactivar {
+    position: absolute;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding: 3px 8px;
+    font-size: 25pt;
+    font-family: "Helvetica";
+    color: rgb(255, 254, 254);
+    line-height: 2;
+    left: 680px;
+    top: 400px;
+  }
+  
+  
